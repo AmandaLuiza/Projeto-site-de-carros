@@ -1,0 +1,16 @@
+#icon {
+    width: 100px;
+    
+    
+}
+
+#list {
+    background-color: gray;
+   
+}
+
+#Navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
